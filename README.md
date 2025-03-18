@@ -1,11 +1,11 @@
 # dBA 5 
  Digital Rotary mixer dBA 5
 
-The dBA 5 is a 2-channel digital rotary DJ mixer. It is based on the body and knobs of an old 1957 meter.
+The dBA 5 is a 2-channel digital rotary DJ mixer. It is based on the body and knobs of an old 1957 meter device.
 The mixer is based on the DevBox STM32H743 Ver2.0 board, 2 PCM1808 ADCs and 2 CS4344 DACs. The sampling frequency is 48 kHz.
 Each of the input channels can operate in line in or Phono mode; 2 phono correctors are installed.
 
-There is a Trim control on the back panel. But the volume level is controlled using the LEVEL knobs during the mix. These knobs have a zero position not in the extreme right position. The listening mode is designed as a switch. Allows you to listen to channel 1, channel 1 + master, master, channel 2 + master, channel 2.
+There is a Trim control on the rear panel. But the volume level is controlled using the LEVEL knobs during the mix. These knobs have a zero position not in the extreme right position. The listening mode is designed as a switch. Allows you to listen to channel 1, channel 1 + master, master, channel 2 + master, channel 2.
 
 Each channel has a filter knob. In the middle position, the filter is not active. To the left is the low-pass filter, to the right is the high-pass filter. Filter operation is indicated by LEDs, the color of which matches the color of the backlight of the pointer indicators.
 

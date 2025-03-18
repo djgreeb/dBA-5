@@ -16,6 +16,8 @@ https://youtube.com/shorts/7Eyr_4_-lbI?si=8GjPAUgvpXiqGfXN
 
 https://youtube.com/shorts/V9p8OeJIuLw?si=TA9aBOhravzZ_spN
 
+https://youtube.com/shorts/Ao05V8m91X4?si=t5FqrDS9XYP-LJhe
+
 The connection diagram of the DAC, ADC and peripherals can be determined from the ROTARY_MIXER.pdf document, according to the corresponding names of the microcontroller signals. The diagram of the analog part is not yet documented, it may be published later or any other analog mixer circuitry may be used.
 
 Some photos:
